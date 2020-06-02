@@ -1,9 +1,0 @@
-spring:
-  rsocket:
-    server:
-      port: 7000
-
-  main:
-    lazy-initialization: true
-  profiles:
-    active: rsocket-controllers
