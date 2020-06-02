@@ -7,8 +7,6 @@ spring:
   profiles:
     active: @spring.profile.active@
 
-application:
-
 aws:
   access-key: <AWS TEXTRACT ACCESS KEY>
   secret-key: <AWS TEXTRACT SECRET KEY>
