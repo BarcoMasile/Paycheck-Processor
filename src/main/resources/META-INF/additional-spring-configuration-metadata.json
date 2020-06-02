@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "aws.secret-key",
+      "type": "java.lang.String",
+      "description": "Chiave di accesso segreta per AWS SDK"
+    },
+    {
+      "name": "aws.access-key",
+      "type": "java.lang.String",
+      "description": "Chiave di accesso identificativa per AWS SDK"
+    }
+  ]
+}

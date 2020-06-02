@@ -1,0 +1,11 @@
+
+spring:
+  profiles:
+    active: @spring.profile.active@
+
+application:
+
+aws:
+  access-key: AKIAI5RZ2HPWWLLIAL4A
+  secret-key: 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
+  region: us-east-2
